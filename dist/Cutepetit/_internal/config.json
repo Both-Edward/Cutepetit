@@ -1,0 +1,14 @@
+{
+  "pet": "Ameath",
+  "scale": 1.0,
+  "opacity": 1.0,
+  "speed": 3,
+  "mouse_follow": false,
+  "always_on_top": true,
+  "x": 1884,
+  "y": 464,
+  "language": "en_US",
+  "ai_url": "http://localhost:1234/v1",
+  "ai_key": "lm-studio",
+  "ai_model": "qwen/qwen3-vl-8b"
+}

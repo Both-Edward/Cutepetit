@@ -1,0 +1,21 @@
+{
+  "weights": {
+    "dynamic_weight": 1,
+    "idle_weight": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "move_weight": [
+      1
+    ]
+  },
+  "flip": {
+    "move": {
+      "enabled": true,
+      "default_dir": "right"
+    }
+  },
+  "personality": ""
+}
