@@ -130,5 +130,16 @@
   "chat_no_openai": "⚠ La librairie openai n'est pas installée. Exécutez : pip install openai",
   "btn_save": "Enregistrer et appliquer",
   "btn_close": "Fermer",
-  "tray_quit": "Quitter Cutepetit"
+  "tray_quit": "Quitter Cutepetit",
+  "chat_with_pet": "Discussion avec {name}",
+  "menu_user_settings": "Paramètres utilisateur",
+  "user_settings_title": "Paramètres utilisateur",
+  "user_settings_subtitle": "Modifier le nom d'utilisateur et l'avatar",
+  "user_settings_avatar": "Avatar :",
+  "user_settings_avatar_hint": "Cliquez sur l'avatar pour télécharger une nouvelle image (enregistré dans ico/user/)",
+  "user_settings_name": "Nom d'utilisateur :",
+  "user_settings_img_types": "Fichiers image",
+  "user_settings_avatar_err": "Échec de la sauvegarde de l'avatar",
+  "user_settings_save_ok": "✅ Sauvegardé",
+  "user_settings_save_ok_msg": "Paramètres utilisateur sauvegardés !"
 }

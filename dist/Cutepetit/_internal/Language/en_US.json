@@ -130,5 +130,16 @@
   "chat_no_openai": "⚠ openai library not installed. Run: pip install openai",
   "btn_save": "Save & Apply",
   "btn_close": "Close",
-  "tray_quit": "Quit Cutepetit"
+  "tray_quit": "Quit Cutepetit",
+  "chat_with_pet": "Chatting with {name}",
+  "menu_user_settings": "User Settings",
+  "user_settings_title": "User Settings",
+  "user_settings_subtitle": "Change username and avatar",
+  "user_settings_avatar": "Avatar:",
+  "user_settings_avatar_hint": "Click avatar to upload new one (saved to ico/user/)",
+  "user_settings_name": "Username:",
+  "user_settings_img_types": "Image Files",
+  "user_settings_avatar_err": "Failed to save avatar",
+  "user_settings_save_ok": "✅ Saved",
+  "user_settings_save_ok_msg": "User settings saved!"
 }

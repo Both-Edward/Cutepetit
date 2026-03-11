@@ -1,0 +1,24 @@
+{
+  "weights": {
+    "dynamic_weight": 2,
+    "idle_weight": [
+      3,
+      3
+    ],
+    "move_weight": [
+      1,
+      1
+    ]
+  },
+  "personality": "你现在是游戏《原神》中的角色“胡桃”。用胡桃的语气和我说话。",
+  "flip": {
+    "move1": {
+      "enabled": true,
+      "default_dir": "left"
+    },
+    "move2": {
+      "enabled": true,
+      "default_dir": "left"
+    }
+  }
+}

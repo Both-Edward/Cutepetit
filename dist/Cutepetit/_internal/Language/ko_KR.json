@@ -130,5 +130,16 @@
   "chat_no_openai": "⚠ openai 라이브러리가 설치되지 않았습니다. pip install openai 를 실행하세요",
   "btn_save": "저장 및 적용",
   "btn_close": "닫기",
-  "tray_quit": "Cutepetit 종료"
+  "tray_quit": "Cutepetit 종료",
+  "chat_with_pet": "{name} 와(과) 대화 중",
+  "menu_user_settings": "사용자 설정",
+  "user_settings_title": "사용자 설정",
+  "user_settings_subtitle": "사용자명과 아바타 변경",
+  "user_settings_avatar": "아바타:",
+  "user_settings_avatar_hint": "아바타 클릭하여 새 이미지 업로드 (ico/user/ 에 저장)",
+  "user_settings_name": "사용자명:",
+  "user_settings_img_types": "이미지 파일",
+  "user_settings_avatar_err": "아바타 저장 실패",
+  "user_settings_save_ok": "✅ 저장됨",
+  "user_settings_save_ok_msg": "사용자 설정이 저장되었습니다!"
 }

@@ -10,5 +10,7 @@
   "language": "en_US",
   "ai_url": "http://localhost:1234/v1",
   "ai_key": "lm-studio",
-  "ai_model": "qwen/qwen3-vl-8b"
+  "ai_model": "qwen/qwen3-vl-8b",
+  "user_name": "Cutepetit",
+  "user_avatar": "ico/Cutepetit ico.png"
 }

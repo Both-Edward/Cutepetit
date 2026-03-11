@@ -130,5 +130,16 @@
   "chat_no_openai": "⚠ 未安裝 openai 庫，請執行：pip install openai",
   "btn_save": "儲存並套用",
   "btn_close": "關閉",
-  "tray_quit": "退出 Cutepetit"
+  "tray_quit": "退出 Cutepetit",
+  "chat_with_pet": "正在與 {name} 對話",
+  "menu_user_settings": "使用者設定",
+  "user_settings_title": "使用者設定",
+  "user_settings_subtitle": "修改使用者名稱和頭像",
+  "user_settings_avatar": "頭像：",
+  "user_settings_avatar_hint": "點擊頭像可上傳新頭像（儲存至 ico/user/）",
+  "user_settings_name": "使用者名稱：",
+  "user_settings_img_types": "圖片檔案",
+  "user_settings_avatar_err": "頭像儲存失敗",
+  "user_settings_save_ok": "✅ 成功",
+  "user_settings_save_ok_msg": "使用者設定已儲存！"
 }

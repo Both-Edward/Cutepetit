@@ -130,5 +130,16 @@
   "chat_no_openai": "⚠ openai ライブラリが未インストールです。pip install openai を実行してください",
   "btn_save": "保存して適用",
   "btn_close": "閉じる",
-  "tray_quit": "Cutepetit を終了"
+  "tray_quit": "Cutepetit を終了",
+  "chat_with_pet": "{name} とチャット中",
+  "menu_user_settings": "ユーザー設定",
+  "user_settings_title": "ユーザー設定",
+  "user_settings_subtitle": "ユーザー名とアバターを変更",
+  "user_settings_avatar": "アバター：",
+  "user_settings_avatar_hint": "アバターをクリックして新しい画像をアップロード（ico/user/ に保存）",
+  "user_settings_name": "ユーザー名：",
+  "user_settings_img_types": "画像ファイル",
+  "user_settings_avatar_err": "アバターの保存に失敗しました",
+  "user_settings_save_ok": "✅ 保存完了",
+  "user_settings_save_ok_msg": "ユーザー設定を保存しました！"
 }
