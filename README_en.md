@@ -85,7 +85,7 @@ Switch between **Simplified Chinese (简体中文)**, **Traditional Chinese (繁
 ## Future Plans
 
 - [x] Internationalization (Simplified Chinese, Traditional Chinese, English, Japanese, Korean, French)
-- [x] LLM Agent
+- [x] LLM Agent (Supports OpenAI compatible API formats)
 - [ ] TTS Agent
 - [ ] Linux (GTK tray)
 - [ ] macOS (rumps / AppKit tray)
