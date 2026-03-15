@@ -10,7 +10,7 @@
     <img src="/ico/Cutepetit ico.ico" width="150" height="150" />
 </div>
 
-Cutepetit is a feature-rich desktop pet application that adds vibrancy and fun to your Windows desktop. This adorable digital companion moves freely on your desktop, responds to your interactions, plays music alongside you, and brings life to your digital workspace.
+Cutepetit is a feature-rich desktop pet application that adds vibrancy and fun to your desktop. This adorable digital companion moves freely on your desktop, responds to your interactions, plays music alongside you, and brings life to your digital workspace.
 
 ---
 
